@@ -538,7 +538,7 @@ docs: update API documentation
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/amitkumarraikwar/DevFlow_API.git
 ```
 
 Navigate into the project:
